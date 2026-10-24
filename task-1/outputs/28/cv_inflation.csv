@@ -1,0 +1,13 @@
+seed,model,cv,macro_f1
+0,1nn,naive_stratified,0.795877897172642
+0,lr,naive_stratified,0.691242556505982
+1,1nn,naive_stratified,0.7782482248625717
+1,lr,naive_stratified,0.653387919755619
+2,1nn,naive_stratified,0.7920899832801337
+2,lr,naive_stratified,0.7225960739101301
+3,1nn,naive_stratified,0.7575525604568815
+3,lr,naive_stratified,0.6806349206349206
+4,1nn,naive_stratified,0.7769052652773584
+4,lr,naive_stratified,0.6980591640827135
+0,1nn,group_union,0.5546074840192486
+0,lr,group_union,0.5521003818876159

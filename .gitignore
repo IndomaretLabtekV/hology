@@ -1,0 +1,23 @@
+# Competition data (download with the Kaggle CLI, see README)
+*/data/
+
+# Model weights, caches, large arrays
+*.pt
+*.pth
+*.safetensors
+*.npy
+*.npz
+*.pkl
+*.parquet
+outputs/cache/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

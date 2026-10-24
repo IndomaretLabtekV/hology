@@ -1,0 +1,12 @@
+{
+  "pair_count": 104,
+  "stable_pairs": 88,
+  "union_edges": 120,
+  "union_groups": 93,
+  "max_union_group": 15,
+  "same_label_rate": {
+    "fm": 0.9230769230769231,
+    "fm_conv": 0.9326923076923077
+  },
+  "warning": "same_label_rate is NOT patient matching accuracy; unknown OCR/pairing errors remain. Groups use cached Mammo-FM/ConvNeXt features, not DINOv3 features."
+}

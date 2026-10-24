@@ -1,0 +1,267 @@
+image_id,label,split,flipped,ocr,lat,view,ax
+image_0001.jpg,Normal,train,True,R ML,R,ML,False
+image_0003.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0004.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0005.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0006.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0007.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0008.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0009.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0010.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0011.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0012.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0013.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0015.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0017.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0018.jpg,Benign,train,True,R MLO,R,MLO,False
+image_0019.jpg,Normal,train,False,,,,False
+image_0020.jpg,Benign,train,True,R ML,R,ML,False
+image_0022.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0024.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0025.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0026.jpg,Malignant,train,True,R ML,R,ML,False
+image_0027.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0028.jpg,Benign,train,False,LCC,L,CC,False
+image_0029.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0031.jpg,Normal,train,True,R ML,R,ML,False
+image_0033.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0034.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0035.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0037.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0038.jpg,Benign,train,False,AX L ML,L,ML,True
+image_0043.jpg,Benign,train,False,L MLL,L,ML,False
+image_0045.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0046.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0047.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0048.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0049.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0050.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0051.jpg,Normal,train,True,R ML,R,ML,False
+image_0054.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0055.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0057.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0058.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0059.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0060.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0061.jpg,Malignant,train,False,1-JUNE-2O22 13:O2:3Z L MLO CR LITTLEENDIANEXPLICIT IMAGES: 2/2 SERIES: 1OO1 WL: 2O47 WW: 4O95,L,MLO,False
+image_0063.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0064.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0065.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0066.jpg,Malignant,train,True,R ML,R,ML,False
+image_0067.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0068.jpg,Malignant,train,True,R ML,R,ML,False
+image_0069.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0070.jpg,Benign,train,True,R ML,R,ML,False
+image_0071.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0073.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0074.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0075.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0076.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0078.jpg,Normal,train,True,AX RCC,R,CC,True
+image_0079.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0080.jpg,Malignant,train,True,R ML,R,ML,False
+image_0081.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0083.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0084.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0085.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0087.jpg,Malignant,train,False,L ML,L,ML,False
+image_0088.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0089.jpg,Normal,train,False,L ML,L,ML,False
+image_0090.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0091.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0092.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0093.jpg,Benign,train,False,L ML,L,ML,False
+image_0095.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0097.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0098.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0100.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0101.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0102.jpg,Normal,train,False,L ML,L,ML,False
+image_0104.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0106.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0107.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0108.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0109.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0110.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0111.jpg,Normal,train,True,,,,False
+image_0112.jpg,Malignant,train,False,L ML,L,ML,False
+image_0113.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0114.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0115.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0116.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0117.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0118.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0119.jpg,Normal,train,False,AX R CC,R,CC,True
+image_0120.jpg,Benign,train,True,R MLO,R,MLO,False
+image_0121.jpg,Benign,train,True,R MLO,R,MLO,False
+image_0122.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0123.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0124.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0126.jpg,Normal,train,False,LML,L,LM,False
+image_0128.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0129.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0130.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0131.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0132.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0133.jpg,Normal,train,True,R ML,R,ML,False
+image_0134.jpg,Normal,train,True,AX LCC,L,CC,True
+image_0135.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0136.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0137.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0138.jpg,Malignant,train,False,L CC,L,CC,False
+image_0139.jpg,Normal,train,True,L ML,L,ML,False
+image_0140.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0142.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0143.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0144.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0145.jpg,Normal,train,False,LMLO,L,LM,False
+image_0146.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0149.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0151.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0152.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0153.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0154.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0156.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0157.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0158.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0159.jpg,Benign,train,False,L ML,L,ML,False
+image_0160.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0161.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0162.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0163.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0164.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0165.jpg,Normal,train,False,L ML,L,ML,False
+image_0167.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0169.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0171.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0173.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0175.jpg,Normal,train,False,L ML,L,ML,False
+image_0176.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0177.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0178.jpg,Malignant,train,False,LCC,L,CC,False
+image_0179.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0180.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0181.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0184.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0185.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0186.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0187.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0189.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0190.jpg,Benign,train,False,L ML,L,ML,False
+image_0191.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0192.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0193.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0194.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0195.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0196.jpg,Benign,train,False,AX L CC,L,CC,True
+image_0197.jpg,Benign,train,True,R MLO,R,MLO,False
+image_0199.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0200.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0201.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0202.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0203.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0204.jpg,Normal,train,False,LML,L,LM,False
+image_0205.jpg,Normal,train,False,AX L CC,L,CC,True
+image_0206.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0207.jpg,Malignant,train,False,L ML,L,ML,False
+image_0209.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0210.jpg,Malignant,train,False,L ML,L,ML,False
+image_0211.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0213.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0214.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0215.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0216.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0217.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0218.jpg,Normal,train,False,L ML,L,ML,False
+image_0219.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0220.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0221.jpg,Benign,train,True,R ML,R,ML,False
+image_0224.jpg,Normal,train,True,R ML,R,ML,False
+image_0225.jpg,Normal,train,True,R ML,R,ML,False
+image_0226.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0227.jpg,Malignant,train,False,AX LCC,L,CC,True
+image_0228.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0230.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0231.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0232.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0233.jpg,Benign,train,True,R MLO,R,MLO,False
+image_0235.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0236.jpg,Normal,train,False,L MLO,L,MLO,False
+image_0238.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0239.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0240.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0242.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0243.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0244.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0245.jpg,Benign,train,True,AX R CC,R,CC,True
+image_0246.jpg,Benign,train,False,L MLO,L,MLO,False
+image_0247.jpg,Malignant,train,False,AX L CC,L,CC,True
+image_0250.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0251.jpg,Malignant,train,False,L ML,L,ML,False
+image_0252.jpg,Malignant,train,True,AX R CC,R,CC,True
+image_0253.jpg,Benign,train,True,R ML,R,ML,False
+image_0254.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0256.jpg,Normal,train,False,AX LCC,L,CC,True
+image_0257.jpg,Malignant,train,True,R MLO,R,MLO,False
+image_0258.jpg,Benign,train,False,AX LCC,L,CC,True
+image_0259.jpg,Normal,train,True,AX R CC,R,CC,True
+image_0261.jpg,Malignant,train,True,R ML,R,ML,False
+image_0262.jpg,Normal,train,False,L ML,L,ML,False
+image_0263.jpg,Normal,train,True,R MLO,R,MLO,False
+image_0264.jpg,Malignant,train,True,R ML,R,ML,False
+image_0265.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0266.jpg,Malignant,train,False,L MLO,L,MLO,False
+image_0002.jpg,?,test,True,R MLO,R,MLO,False
+image_0014.jpg,?,test,True,R MLO,R,MLO,False
+image_0016.jpg,?,test,False,L ML,L,ML,False
+image_0021.jpg,?,test,False,AX L CC,L,CC,True
+image_0023.jpg,?,test,True,R MLO,R,MLO,False
+image_0030.jpg,?,test,False,LMLO,L,LM,False
+image_0032.jpg,?,test,False,AX L CC,L,CC,True
+image_0036.jpg,?,test,True,R MLO,R,MLO,False
+image_0039.jpg,?,test,True,AX R CC,R,CC,True
+image_0040.jpg,?,test,True,R MLO,R,MLO,False
+image_0041.jpg,?,test,True,AX R CC,R,CC,True
+image_0042.jpg,?,test,True,R ML,R,ML,False
+image_0044.jpg,?,test,False,AX R CC,R,CC,True
+image_0052.jpg,?,test,False,L MLO,L,MLO,False
+image_0053.jpg,?,test,False,L ML,L,ML,False
+image_0056.jpg,?,test,True,R MLO,R,MLO,False
+image_0062.jpg,?,test,True,R MLO,R,MLO,False
+image_0072.jpg,?,test,True,R MLO,R,MLO,False
+image_0077.jpg,?,test,False,AX L CC,L,CC,True
+image_0082.jpg,?,test,True,AX R CC,R,CC,True
+image_0086.jpg,?,test,False,AX R CC,R,CC,True
+image_0094.jpg,?,test,True,R ML,R,ML,False
+image_0096.jpg,?,test,True,AX R CC,R,CC,True
+image_0099.jpg,?,test,True,AX R CC,R,CC,True
+image_0103.jpg,?,test,True,AX R CC,R,CC,True
+image_0105.jpg,?,test,False,AX LCC,L,CC,True
+image_0125.jpg,?,test,False,AX L CC,L,CC,True
+image_0127.jpg,?,test,False,L ML,L,ML,False
+image_0141.jpg,?,test,False,L MLO,L,MLO,False
+image_0147.jpg,?,test,False,AX LCC,L,CC,True
+image_0148.jpg,?,test,False,AX L CC,L,CC,True
+image_0150.jpg,?,test,True,AX R CC,R,CC,True
+image_0155.jpg,?,test,True,R MLO,R,MLO,False
+image_0166.jpg,?,test,True,AX R CC,R,CC,True
+image_0168.jpg,?,test,True,R MLO,R,MLO,False
+image_0170.jpg,?,test,True,AX R CC,R,CC,True
+image_0172.jpg,?,test,True,AX R CC,R,CC,True
+image_0174.jpg,?,test,True,AX R CC,R,CC,True
+image_0182.jpg,?,test,False,L ML,L,ML,False
+image_0183.jpg,?,test,False,AX L CC,L,CC,True
+image_0188.jpg,?,test,True,AX R CC,R,CC,True
+image_0198.jpg,?,test,True,R MLO,R,MLO,False
+image_0208.jpg,?,test,True,AX RCC,R,CC,True
+image_0212.jpg,?,test,False,AX L CC,L,CC,True
+image_0222.jpg,?,test,False,,,,False
+image_0223.jpg,?,test,True,R MLO,R,MLO,False
+image_0229.jpg,?,test,True,AX LCC,L,CC,True
+image_0234.jpg,?,test,True,AX R CC,R,CC,True
+image_0237.jpg,?,test,True,R ML,R,ML,False
+image_0241.jpg,?,test,True,AX R CC,R,CC,True
+image_0248.jpg,?,test,True,R MLO,R,MLO,False
+image_0249.jpg,?,test,False,L ML,L,ML,False
+image_0255.jpg,?,test,False,L ML,L,ML,False
+image_0260.jpg,?,test,True,R ML,R,ML,False

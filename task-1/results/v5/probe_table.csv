@@ -1,0 +1,6 @@
+model,macro_f1,auc_bm,pair_f1
+probe_fm,0.5199,0.5687,0.5403
+probe_dino,0.4725,0.588,0.4362
+probe_dino_crop,0.475,0.6159,0.4717
+probe_concat,0.5402,0.5649,0.5437
+probe_control_background_raw,0.402,0.4269,0.3953

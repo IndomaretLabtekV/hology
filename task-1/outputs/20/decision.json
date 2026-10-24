@@ -1,0 +1,9 @@
+{
+  "candidate": "soft",
+  "image_height": 1024,
+  "image_width": 768,
+  "trim": 0,
+  "harmonize": true,
+  "reason": "Preserve full field and original tissue intensities; remove exterior texture with a smooth transition.",
+  "limitation": "Mask is heuristic; semantic preservation, residual in-tissue shortcuts and macro F1 need GPU validation."
+}

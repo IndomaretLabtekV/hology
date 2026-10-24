@@ -1,0 +1,8 @@
+model,macro_f1,recall_Normal,recall_Benign,recall_Malignant,pred_counts
+v4_dino_vith_frozen_direct,0.4,0.4,0.071,0.85,"[11, 2, 41]"
+v4_dino_vith_frozen_modeprior,0.605,0.95,0.071,0.95,"[19, 2, 33]"
+v5_dino_vitb_probe_full,0.455,0.45,0.357,0.55,"[14, 18, 22]"
+v5_dino_vitb_probe_crop,0.502,0.6,0.357,0.55,"[22, 12, 20]"
+v5_fm_probe,0.572,0.65,0.5,0.55,"[15, 19, 20]"
+v5_fm_finetune,0.721,1.0,0.714,0.5,"[27, 17, 10]"
+v6_fm_finetune_s1,0.741,1.0,0.786,0.5,"[26, 18, 10]"

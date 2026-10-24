@@ -1,0 +1,11 @@
+variant,oof_mae
+raw text (no preprocessing),356157.67099417583
+repaired text,356187.97999288293
+model_text (repair + [ADDRESS] + unglue),356183.0288511226
+"model_text, casing preserved",360939.712011993
+"model_text, digits stripped",355919.3176898561
+"model_text, proper nouns stripped",374572.81108658103
+model_text + facts (full weight),357178.83820095204
+model_text + facts (x0.05),355800.2705195267
+raw text + char ngrams,348056.21255664865
+model_text + char ngrams,348591.4218996757

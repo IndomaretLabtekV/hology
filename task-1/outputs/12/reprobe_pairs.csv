@@ -1,0 +1,10 @@
+features,f1,f1_pairavg,sd,auc_normal,auc_BM
+mammo_fm_fm_flip_s2_h,0.565,0.58,0.021,0.821,0.686
+mammo_fm_fm_notext_s2_h,0.57,0.566,0.015,0.844,0.679
+mammo_fm_fm_protocol_s2,0.556,0.567,0.01,0.836,0.675
+mammo_fm_fm_flatbg_s2_h,0.565,0.555,0.021,0.856,0.663
+mammo_fm_v2_bbox_s2,0.546,0.563,0.008,0.867,0.612
+mammo_fm_silhouette_s2,0.355,0.367,0.031,0.565,0.473
+mammo_fm_bg_notext_s2_h,0.367,0.396,0.033,0.707,0.356
+mammo_fm_bg_only_s2,0.406,0.443,0.023,0.751,0.348
+mammo_fm_bg_notext_s2,0.407,0.414,0.039,0.781,0.345

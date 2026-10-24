@@ -1,0 +1,8 @@
+{
+  "decoded": 266,
+  "train": 212,
+  "test": 54,
+  "exact_duplicate_images": 0,
+  "normal_mode_auc": 0.9875,
+  "interpretation": "KS is exploratory, image-level and class-mix confounded; pixels have no verified physical spacing."
+}

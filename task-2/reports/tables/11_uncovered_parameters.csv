@@ -1,0 +1,4 @@
+parameter,shape,numel
+encoder.rel_embeddings.weight,"(512, 768)",393216
+encoder.LayerNorm.weight,"(768,)",768
+encoder.LayerNorm.bias,"(768,)",768

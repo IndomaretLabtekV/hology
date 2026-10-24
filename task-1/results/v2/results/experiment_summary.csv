@@ -1,0 +1,2 @@
+model,resolution,folds,mean_fold_macro_f1,oof_fusion_macro_f1,oof_calibrated_macro_f1,mode_beta,bm_weight,benign_bias,malignant_bias
+Mammo-FM BatmanLab EfficientNet-B5,1520x912,5,0.7641277366599948,0.7926587301587301,0.7926587301587301,0.25,0.75,0.0,0.0

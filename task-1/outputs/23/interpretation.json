@@ -1,0 +1,4 @@
+{
+  "warning": "Univariate associations are not held-out model performance. Anatomy can cause tissue associations; absence of scalar associations cannot prove no deep-model shortcut.",
+  "confidence_intervals": "300 bootstrap resamples of inferred union groups; exploratory, no multiplicity correction."
+}

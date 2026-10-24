@@ -1,0 +1,2 @@
+model,head,image_height,image_width,best_epoch,direct_val_macro_f1,best_mode_alpha,fused_val_macro_f1,refit_full,selected_submission
+facebook/dinov3-vith16plus-pretrain-lvd1689m,"Linear(2560,512)-GELU-Dropout-Linear(512,3)",640,480,6,0.4179894179894179,0.30000000000000004,0.6103896103896104,True,mode_fused

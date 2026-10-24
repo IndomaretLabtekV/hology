@@ -1,0 +1,11 @@
+fact,parsed_in_both,value_changed,median_before,median_after
+sqft,2852,345,547.0,2585.0
+acres,3186,10,412.0,1904.725
+beds,7636,0,,
+baths,5760,0,,
+car_garage,1474,0,,
+stories,210,0,,
+units,215,0,,
+year_min,2886,13,2017.0,1958.0
+year_max,2886,5,1944.0,2000.0
+year_built,860,0,,

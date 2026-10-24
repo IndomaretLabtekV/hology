@@ -1,0 +1,11 @@
+Mammo-FM encoder loaded, params: 30 M
+{'backbone': 'mammo_fm', 'variant': 'fm_protocol', 'draft_scale': 2, 'harmonize': 0, 'macro_f1': np.float64(0.556), 'sd': np.float64(0.018), 'auc_normal': 0.836, 'auc_BM': 0.675}
+{'backbone': 'mammo_fm', 'variant': 'bg_only', 'draft_scale': 2, 'harmonize': 0, 'macro_f1': np.float64(0.406), 'sd': np.float64(0.024), 'auc_normal': 0.751, 'auc_BM': 0.348}
+{'backbone': 'mammo_fm', 'variant': 'v2_bbox', 'draft_scale': 2, 'harmonize': 0, 'macro_f1': np.float64(0.546), 'sd': np.float64(0.021), 'auc_normal': 0.867, 'auc_BM': 0.612}
+{'backbone': 'mammo_fm', 'variant': 'bg_notext', 'draft_scale': 2, 'harmonize': 0, 'macro_f1': np.float64(0.407), 'sd': np.float64(0.033), 'auc_normal': 0.781, 'auc_BM': 0.345}
+{'backbone': 'mammo_fm', 'variant': 'silhouette', 'draft_scale': 2, 'harmonize': 0, 'macro_f1': np.float64(0.355), 'sd': np.float64(0.028), 'auc_normal': 0.565, 'auc_BM': 0.473}
+{'backbone': 'mammo_fm', 'variant': 'bg_notext', 'draft_scale': 2, 'harmonize': 1, 'macro_f1': np.float64(0.367), 'sd': np.float64(0.03), 'auc_normal': 0.707, 'auc_BM': 0.356}
+{'backbone': 'mammo_fm', 'variant': 'fm_notext', 'draft_scale': 2, 'harmonize': 1, 'macro_f1': np.float64(0.57), 'sd': np.float64(0.02), 'auc_normal': 0.844, 'auc_BM': 0.679}
+{'backbone': 'mammo_fm', 'variant': 'fm_flip', 'draft_scale': 2, 'harmonize': 1, 'macro_f1': np.float64(0.565), 'sd': np.float64(0.017), 'auc_normal': 0.821, 'auc_BM': 0.686}
+  extracted feat_mammo_fm_fm_flatbg_s2_h.npy in 594s
+{'backbone': 'mammo_fm', 'variant': 'fm_flatbg', 'draft_scale': 2, 'harmonize': 1, 'macro_f1': np.float64(0.565), 'sd': np.float64(0.016), 'auc_normal': 0.856, 'auc_BM': 0.663}

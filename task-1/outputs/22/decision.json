@@ -1,0 +1,10 @@
+{
+  "degrees": 5,
+  "gamma": [
+    0.9,
+    1.1
+  ],
+  "fit": true,
+  "border": "constant",
+  "warning": "Metrics measure geometry/intensity only. No claim of label preservation or improved F1 until GPU ablation."
+}

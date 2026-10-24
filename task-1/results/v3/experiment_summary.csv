@@ -1,0 +1,3 @@
+model,macro_f1,C_direct,C_bm,beta,bm_weight
+Mammo-FM frozen direct LR,0.72836256668592,30.0,,0.0,0.0
+Mammo-FM frozen fused,0.8285136839545945,30.0,1.0,3.0,0.25

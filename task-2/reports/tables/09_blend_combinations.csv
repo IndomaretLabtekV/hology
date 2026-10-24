@@ -1,0 +1,5 @@
+combination,blend_mae,weights
+v2 only,333128.72360841813,"{'v2 ridge': 0.018, 'v2 svr': 0.503, 'v2 lgbm': 0.479}"
+external only,365409.81190608896,"{'nb1 CatBoost structured': 0.059, 'xlmr XLM-R': 0.473, 'xlmr TF-IDF': 0.408, 'xlmr tabular': 0.061}"
+v2 + external,331248.3329801101,"{'v2 svr': 0.448, 'v2 lgbm': 0.4, 'xlmr XLM-R': 0.152}"
+v2 + xlmr XLM-R only,331248.53879526485,"{'v2 svr': 0.448, 'v2 lgbm': 0.399, 'xlmr XLM-R': 0.153}"

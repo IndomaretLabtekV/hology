@@ -1,0 +1,15 @@
+{"cfg": "d4", "fold": 0, "iou": 0.7877, "iou_affine": 0.7904, "iou_clouds": 0.7675, "iou_no_nodata_rule": 0.7877, "secs": 433, "iou_t0.3": 0.7867, "iou_t0.4": 0.7904, "iou_t0.6": 0.7805}
+{"cfg": "d4", "fold": 2, "iou": 0.7895, "iou_affine": 0.7873, "iou_clouds": 0.7615, "iou_no_nodata_rule": 0.7894, "secs": 395, "iou_t0.3": 0.8151, "iou_t0.4": 0.806, "iou_t0.6": 0.7692}
+d4 MEAN: {'iou': 0.7886, 'iou_affine': 0.7888, 'iou_clouds': 0.7645, 'iou_no_nodata_rule': 0.7885, 'secs': 414.0, 'iou_t0.3': 0.8009, 'iou_t0.4': 0.7982, 'iou_t0.6': 0.7748}
+{"cfg": "full_v2", "fold": 0, "iou": 0.7971, "iou_affine": 0.8011, "iou_clouds": 0.7926, "iou_no_nodata_rule": 0.7971, "secs": 489, "iou_t0.3": 0.787, "iou_t0.4": 0.7947, "iou_t0.6": 0.796}
+{"cfg": "full_v2", "fold": 2, "iou": 0.8388, "iou_affine": 0.8248, "iou_clouds": 0.7892, "iou_no_nodata_rule": 0.8385, "secs": 466, "iou_t0.3": 0.8432, "iou_t0.4": 0.8441, "iou_t0.6": 0.831}
+full_v2 MEAN: {'iou': 0.818, 'iou_affine': 0.8129, 'iou_clouds': 0.7909, 'iou_no_nodata_rule': 0.8178, 'secs': 477.5, 'iou_t0.3': 0.8151, 'iou_t0.4': 0.8194, 'iou_t0.6': 0.8135}
+{"cfg": "bank", "fold": 0, "iou": 0.8056, "iou_affine": 0.8082, "iou_clouds": 0.7802, "iou_no_nodata_rule": 0.8055, "secs": 451, "iou_t0.3": 0.7982, "iou_t0.4": 0.8042, "iou_t0.6": 0.8023}
+{"cfg": "bank", "fold": 2, "iou": 0.8513, "iou_affine": 0.8456, "iou_clouds": 0.8188, "iou_no_nodata_rule": 0.8505, "secs": 423, "iou_t0.3": 0.8492, "iou_t0.4": 0.8538, "iou_t0.6": 0.8445}
+bank MEAN: {'iou': 0.8284, 'iou_affine': 0.8269, 'iou_clouds': 0.7995, 'iou_no_nodata_rule': 0.828, 'secs': 437.0, 'iou_t0.3': 0.8237, 'iou_t0.4': 0.829, 'iou_t0.6': 0.8234}
+{"cfg": "hsv", "fold": 0, "iou": 0.8218, "iou_affine": 0.8251, "iou_clouds": 0.7734, "iou_no_nodata_rule": 0.8218, "secs": 442, "iou_t0.3": 0.8114, "iou_t0.4": 0.8208, "iou_t0.6": 0.8171}
+{"cfg": "hsv", "fold": 2, "iou": 0.8223, "iou_affine": 0.8044, "iou_clouds": 0.756, "iou_no_nodata_rule": 0.822, "secs": 417, "iou_t0.3": 0.8317, "iou_t0.4": 0.8305, "iou_t0.6": 0.8057}
+hsv MEAN: {'iou': 0.822, 'iou_affine': 0.8148, 'iou_clouds': 0.7647, 'iou_no_nodata_rule': 0.8219, 'secs': 429.5, 'iou_t0.3': 0.8216, 'iou_t0.4': 0.8257, 'iou_t0.6': 0.8114}
+{"cfg": "full_v1", "fold": 0, "iou": 0.7855, "iou_affine": 0.7933, "iou_clouds": 0.7821, "iou_no_nodata_rule": 0.7855, "secs": 445, "iou_t0.3": 0.7771, "iou_t0.4": 0.7834, "iou_t0.6": 0.7834}
+{"cfg": "full_v1", "fold": 2, "iou": 0.836, "iou_affine": 0.8233, "iou_clouds": 0.8181, "iou_no_nodata_rule": 0.8358, "secs": 513, "iou_t0.3": 0.8382, "iou_t0.4": 0.8397, "iou_t0.6": 0.8252}
+full_v1 MEAN: {'iou': 0.8108, 'iou_affine': 0.8083, 'iou_clouds': 0.8001, 'iou_no_nodata_rule': 0.8106, 'secs': 479.0, 'iou_t0.3': 0.8077, 'iou_t0.4': 0.8115, 'iou_t0.6': 0.8043}

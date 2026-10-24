@@ -1,0 +1,1 @@
+image_id,label,split,width,height,mode,q_mean,file_sha256,pixel_sha256,bytes,mask_fraction,flipped,tissue_p01,tissue_median,tissue_p99,tissue_std,tissue_black,tissue_white,bg_median,lap_std
